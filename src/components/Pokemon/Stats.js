@@ -40,7 +40,8 @@ const Stats = (props) => {
 const styles = StyleSheet.create({
   content: {
     padding: 20,
-    marginTop: 40,
+    marginTop: 5,
+    marginBottom: 30,
   },
   title: {
     fontWeight: "bold",

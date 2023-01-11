@@ -4,7 +4,7 @@ import {
   ActivityIndicator,
   Platform,
 } from "react-native";
-import React from "react";
+
 import PokemonCard from "./PokemonCard";
 
 const PokemonList = (props) => {
